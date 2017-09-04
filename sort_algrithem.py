@@ -2,6 +2,7 @@
 
 # reference :https://www.cnblogs.com/skywang12345/p/3597597.html
 # http://blog.csdn.net/morewindows/article/details/6678165
+# http://python.jobbole.com/82270/
 import copy
 test_list = [10,23,1,53,654,54,16,646,65,3155,546,31]
 
